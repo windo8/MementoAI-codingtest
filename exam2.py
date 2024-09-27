@@ -26,4 +26,4 @@ try:
 except ValueError as e:
     print(e) 
 
-print(solution('01072104421'))
+print(solution('01044443333'))
